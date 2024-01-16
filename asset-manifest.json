@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/football-leagues/static/css/main.12e62127.css",
-    "main.js": "/football-leagues/static/js/main.956fb61a.js",
+    "main.js": "/football-leagues/static/js/main.776fe039.js",
     "index.html": "/football-leagues/index.html",
     "main.12e62127.css.map": "/football-leagues/static/css/main.12e62127.css.map",
-    "main.956fb61a.js.map": "/football-leagues/static/js/main.956fb61a.js.map"
+    "main.776fe039.js.map": "/football-leagues/static/js/main.776fe039.js.map"
   },
   "entrypoints": [
     "static/css/main.12e62127.css",
-    "static/js/main.956fb61a.js"
+    "static/js/main.776fe039.js"
   ]
 }
